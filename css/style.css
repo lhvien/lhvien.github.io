@@ -300,6 +300,18 @@ button:focus,
     margin-top : 40px;
     }
 
+a.btn.btn-down {
+    margin-top: -6px;
+    background-color: #34b2f5;
+    border-radius: 8%;
+    padding: 7px;
+    color: white;
+}
+
+a.btn.btn-down:hover {
+    background-color: #67a70d;
+}
+
 @media (max-width : 768px) {
     .header {
         padding       : 0;
